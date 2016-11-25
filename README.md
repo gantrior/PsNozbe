@@ -1,5 +1,5 @@
 # Project Description
-PsNozbe is set of Powershell cmdlets to work with Nozbe Projects/Contexts/Actions. As long as powershell is heavily supported by Windows and many other tools, it provides cool integration potential. And of course it is very helpful for geeks which uses shell on daily basis :)
+PsNozbe is set of Powershell cmdlets to work with [Nozbe](https://nozbe.com) Projects/Contexts/Actions. As long as powershell is heavily supported by Windows and many other tools, it provides cool integration potential. And of course it is very helpful for geeks which uses shell on daily basis :)
 
 After installation it asks you to provide your Nozbe API key and saves it encrypted into environment variable
 
