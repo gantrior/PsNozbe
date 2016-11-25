@@ -41,7 +41,7 @@ Get-NozbeProject | Get-NozbeAction -ShowDone
 Completing actions:
 ```
 # complete first action in Next
-Get-NozbeAction -NextAction | Select -First 1 | Complete-NozbeAcGet-NozbeAction -NextAction | Select -First 1 | Complete-NozbeAction
+Get-NozbeAction -NextAction | Select -First 1 | Complete-NozbeAction
 ```
 
 Creating actions:
